@@ -26,6 +26,9 @@ To run this project, you will need the following libraries:
 - Matplotlib: For plotting graphs and visualizations.
 - Numpy: For numerical and array operations.
 
+## Dataset Source
+- The CIFAR-10 dataset used in this project can be accessed on Kaggle at the following link: [CIFAR-10 Dataset on Kaggle](https://www.kaggle.com/datasets/quanbk/cifar10).
+
 ## Dataset Analysis
 - An analysis will be provided for the CIFAR-10 dataset, focusing on label counts and data distribution.
 
